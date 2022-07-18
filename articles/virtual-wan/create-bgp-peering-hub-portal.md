@@ -1,5 +1,5 @@
 ---
-title: Create a BGP peering with virtual hub(Preview) - Azure portal
+title: Create a BGP peering with virtual hub - Azure portal
 titleSuffix: Azure Virtual WAN
 description: Learn how to create a BGP peering with Virtual WAN hub router.
 services: virtual-wan
